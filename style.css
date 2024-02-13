@@ -1,0 +1,34 @@
+
+h1 {
+    color: pink;/*Pink for text color*/
+    font-size: 4em;/*Large font size so it would cover most of the page*/
+}
+
+h2 {
+    color: lightpink;/*Light pink for the text color*/
+    font-size: 2.5em ;
+}
+
+/*Styles for the buttoms*/
+buttom{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: aquamarine;
+    border: none;
+    cursor: pointer;
+}
+
+/*Styles for the paragraphs*/
+p{
+    margin: 0;
+}
+
+/*Styles for section*/
+section{
+    margin-bottom: 20px;
+}
+
+/*Style for the story dispaly*/
+#story {
+    font-style: italic;
+}
